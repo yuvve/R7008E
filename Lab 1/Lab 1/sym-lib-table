@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "relay_coil")(type "KiCad")(uri "${KIPRJMOD}/../../Assets/relay_coil.kicad_sym")(options "")(descr ""))
+  (lib (name "relay_contact")(type "KiCad")(uri "${KIPRJMOD}/../../Assets/relay_contact.kicad_sym")(options "")(descr ""))
+)
