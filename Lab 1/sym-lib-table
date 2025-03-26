@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "relay_coil")(type "KiCad")(uri "${KIPRJMOD}/../Assets/relay_coil.kicad_sym")(options "")(descr ""))
   (lib (name "relay_contact")(type "KiCad")(uri "${KIPRJMOD}/../Assets/relay_contact.kicad_sym")(options "")(descr ""))
+  (lib (name "Indicator")(type "KiCad")(uri "C:/Users/yuval/Documents/repos/R7008E/Assets/Indicator.kicad_sym")(options "")(descr ""))
 )
