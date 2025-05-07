@@ -4451,7 +4451,7 @@
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "\\text{Off}_A = \\overrightarrow{S2S0}(\\overline{b_{fas}}\\overline{a} + b_{sto})\\vert_{B=0}= (\\overline{b_{fas}}\\overline{a} + b_{sto})\\overline{B} = \\overline{B}\\overline{b_{fas}}\\overline{a} + \\overline{B}b_{sto}"
+        "ariaLabel": "\\text{Off}_A = \\overrightarrow{S2S0}(\\overline{b_{fas}}\\overline{a} + b_{sto})\\vert_{B=0}= (\\overline{b_{fas}}\\overline{a} + b_{sto})\\overline{B}= \\overline{B}\\overline{b_{fas}}\\overline{a} + \\overline{B}b_{sto}"
       },
       "fontSize": 20,
       "fontFamily": 2,
@@ -4551,8 +4551,8 @@
     },
     {
       "type": "text",
-      "version": 608,
-      "versionNonce": 489939655,
+      "version": 609,
+      "versionNonce": 451099945,
       "index": "b5P",
       "isDeleted": false,
       "id": "aTlZNiq3jsHvwFFXcicgQ",
@@ -4573,22 +4573,22 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1746607383876,
+      "updated": 1746610191767,
       "link": null,
       "locked": false,
       "subtype": "math",
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "\\text{On}_C = \\overrightarrow{S1S2}(h_l\\overline{p_{se}})\\vert_{D=1,E=0} = h_l\\overline{p_{se}}\\bar{D}\\bar{E}"
+        "ariaLabel": "\\text{On}_C = \\overrightarrow{S1S2}(h_l\\overline{p_{se}})\\vert_{D=1,E=0} = h_l\\overline{p_{se}}D\\bar{E}"
       },
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "\\text{On}_C = \\overrightarrow{S1S2}(h_l\\overline{p_{se}})\\vert_{D=1,E=0} = h_l\\overline{p_{se}}\\bar{D}\\bar{E}",
+      "text": "\\text{On}_C = \\overrightarrow{S1S2}(h_l\\overline{p_{se}})\\vert_{D=1,E=0} = h_l\\overline{p_{se}}D\\bar{E}",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "\\text{On}_C = \\overrightarrow{S1S2}(h_l\\overline{p_{se}})\\vert_{D=1,E=0} = h_l\\overline{p_{se}}\\bar{D}\\bar{E}",
+      "originalText": "\\text{On}_C = \\overrightarrow{S1S2}(h_l\\overline{p_{se}})\\vert_{D=1,E=0} = h_l\\overline{p_{se}}D\\bar{E}",
       "autoResize": true,
       "lineHeight": 1.15
     },
@@ -4918,7 +4918,7 @@
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "\\text{Off}_E= \\overrightarrow{S3iS0}(\\emptyset)\\vert_{C=0,D=0} = \\bar{C} \\bar{D}"
+        "ariaLabel": "\\text{Off}_E= \\overrightarrow{S3iS0}(\\emptyset)\\vert_{C=0,D=0} = \\overline{CD}"
       },
       "fontSize": 20,
       "fontFamily": 2,
@@ -4961,7 +4961,7 @@
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "\\text{F} = \\overline{\\overline{b_{a}}\\overline{s_{1}s_{2}}}(b_{a} + F) = (b_{a}+s_{1}s_{2})(b_a+F)"
+        "ariaLabel": "\\text{F} = \\overline{\\overline{b_{a}}\\overline{s_{1}s_{2}}}(b_{a} + F) = b_{a}+s_{1}s_{2}(b_a+F)"
       },
       "fontSize": 20,
       "fontFamily": 2,
@@ -5362,8 +5362,8 @@
     },
     {
       "type": "text",
-      "version": 926,
-      "versionNonce": 1675381319,
+      "version": 952,
+      "versionNonce": 94796649,
       "index": "b67",
       "isDeleted": false,
       "id": "KA_crhhFNptSFGXwXU0q-",
@@ -5373,33 +5373,33 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1869.3985611584624,
+      "x": 1868.8595397841088,
       "y": 176.0349194576043,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 779.183349609375,
-      "height": 35.55000305175781,
+      "width": 761.2999877929688,
+      "height": 35.46665954589844,
       "seed": 283831593,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1746607896655,
+      "updated": 1746610340399,
       "link": null,
       "locked": false,
       "subtype": "math",
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "C = \\overline{\\bar{D}\\bar{E}}(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = (D + E)(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = CD + CE = C(D +E)"
+        "ariaLabel": "C = \\overline{D\\bar{E}}(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = (\\bar{D} + E)(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = h_l\\overline{p_{se}}\\bar{D}\\bar{E} + \\bar{D}C + EC"
       },
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "C = \\overline{\\bar{D}\\bar{E}}(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = (D + E)(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = CD + CE = C(D +E)",
+      "text": "C = \\overline{D\\bar{E}}(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = (\\bar{D} + E)(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = h_l\\overline{p_{se}}\\bar{D}\\bar{E} + \\bar{D}C + EC",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "C = \\overline{\\bar{D}\\bar{E}}(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = (D + E)(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = CD + CE = C(D +E)",
+      "originalText": "C = \\overline{D\\bar{E}}(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = (\\bar{D} + E)(h_l\\overline{p_{se}}\\bar{D}\\bar{E} + C) = h_l\\overline{p_{se}}\\bar{D}\\bar{E} + \\bar{D}C + EC",
       "autoResize": true,
       "lineHeight": 1.15
     },
@@ -5477,7 +5477,7 @@
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "= \\overline{\\overline{h_l}C\\overline{E}} \\cdot \\overline{ \\overline{h_s}\\overline{C}E }(T_c \\overline{DE} +D) "
+        "ariaLabel": "= \\overline{\\overline{h_l}C\\overline{E}} \\cdot \\overline{ \\overline{h_s}\\overline{C}E }(T_c \\overline{DE} +D) = "
       },
       "fontSize": 20,
       "fontFamily": 2,
@@ -5491,8 +5491,8 @@
     },
     {
       "type": "text",
-      "version": 1325,
-      "versionNonce": 305972745,
+      "version": 1326,
+      "versionNonce": 1951395497,
       "index": "b6F",
       "isDeleted": false,
       "id": "kOW_wYq2yIipXAHnkpjWU",
@@ -5502,7 +5502,7 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2495.3580163528236,
+      "x": 2495.8970377271776,
       "y": 236.67208091097126,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -5513,14 +5513,14 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1746608464060,
+      "updated": 1746610231180,
       "link": null,
       "locked": false,
       "subtype": "math",
       "customData": {
         "useTex": true,
         "mathOnly": true,
-        "ariaLabel": "= (h_l +  \\overline{C} + E)(h_s + C + \\overline{E})(T_c \\overline{DE} +D)  = (h_l +  \\overline{C} + E)(h_s + C + \\overline{E})(T_c\\overline{D} +T_c\\overline{E}) +D)"
+        "ariaLabel": "= (h_l +  \\overline{C} + E)(h_s + C + \\overline{E})(T_c \\overline{DE} +D)  = (h_l +  \\overline{C} + E)(h_s + C + \\overline{E})(T_c\\overline{D} +T_c\\overline{E} +D)"
       },
       "fontSize": 20,
       "fontFamily": 2,
