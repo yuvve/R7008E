@@ -2101,8 +2101,8 @@
     },
     {
       "type": "text",
-      "version": 588,
-      "versionNonce": 260734254,
+      "version": 596,
+      "versionNonce": 1577490926,
       "index": "b3a",
       "isDeleted": false,
       "id": "bBYcWocpDqgDzJONQi1a5",
@@ -2123,22 +2123,22 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1746711525740,
+      "updated": 1746713548313,
       "link": null,
       "locked": false,
       "subtype": "math",
       "customData": {
         "useTex": true,
         "mathOnly": false,
-        "ariaLabel": "S0:  P_{sc}, P_{lc}, T_c S1:  S2: T_s S3: T_l S4: P_{se} S5: P_{le}"
+        "ariaLabel": "S0:  P_{sc}, P_{lc}, T_c S1:  S2: T_l S3: T_s S4: P_{le} S5: P_{se}"
       },
       "fontSize": 26.203037577306965,
       "fontFamily": 2,
-      "text": "S0:  $P_{sc}$, $P_{lc}$, $T_c$\nS1: \nS2: $T_s$\nS3: $T_l$\nS4: $P_{se}$\nS5: $P_{le}$",
+      "text": "S0:  $P_{sc}$, $P_{lc}$, $T_c$\nS1: \nS2: $T_l$\nS3: $T_s$\nS4: $P_{le}$\nS5: $P_{se}$",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "S0:  $P_{sc}$, $P_{lc}$, $T_c$\nS1: \nS2: $T_s$\nS3: $T_l$\nS4: $P_{se}$\nS5: $P_{le}$",
+      "originalText": "S0:  $P_{sc}$, $P_{lc}$, $T_c$\nS1: \nS2: $T_l$\nS3: $T_s$\nS4: $P_{le}$\nS5: $P_{se}$",
       "autoResize": true,
       "lineHeight": 1.15
     },
